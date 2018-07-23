@@ -1,6 +1,14 @@
 class demo
 {
-  p s void main()
+ void DEPOSITE()
+ {
+   .......
+  } 
+  VOID withdraw() 
+  { 
+    ...........
+  } 
+ p s void main()
   {
      .....
      s.o.p..  
